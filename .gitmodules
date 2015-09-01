@@ -1,0 +1,4 @@
+[submodule "cookbooks"]
+	path = cookbooks
+	url = git@github.com:pypestream/opsworks-cookbooks.git
+	branch = cookbooks
